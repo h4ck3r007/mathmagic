@@ -1,0 +1,18 @@
+Problem#1 : Solving simple equations.
+
+Ex : 5 + 3 = 2 + ?
+
+Suitable for Class 1 & Class 2 kids.
+======================================================
+Problem#2 : Solving simple equation for operator.
+
+Ex : 5 + 3 = 2 ? 4
+
+Suitable for Class 2 & Class 3 kids.
+======================================================
+Problem#3 : Solving simple equations with alphabet.
+
+Ex : P + 5 = 7   What is Value for P?
+
+Suitable for Class 2 & Class 3 kids.
+======================================================
