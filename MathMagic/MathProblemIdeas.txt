@@ -3,6 +3,8 @@ Problem#1 : Solving simple equations.
 Ex : 5 + 3 = 2 + ?
 
 Suitable for Class 1 & Class 2 kids.
+
+Worksheet : Worksheet_SimpleEquations1 & Worksheet_SimpleEquations2 [Completed]
 ======================================================
 Problem#2 : Solving simple equation for operator.
 
