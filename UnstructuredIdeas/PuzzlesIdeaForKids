@@ -1,0 +1,5 @@
+[Puzzle] Sudoku For Kids
+=========================
+Level 1 : Have 3X3 Square with one missing number. Ask to find the missing number.
+Level 2 : Have 9X3 Square with one missing number in each 3X3 box and one missing number in each row. 
+Level 3 : Have 9X3 Square with missing numbers. How many max missing numbers are possible? 
