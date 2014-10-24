@@ -6,4 +6,23 @@ Problem#2 : Learning greater than and less than with arithmetic operation
 
 Ex : 2 + 3 > 4
 ======================================================
-Problem#3 : 
+Problem#3 : Algebra variables
+
+Ex : A = 3 , B = 5 What is A+B?
+======================================================
+Problem#4 : Number pattern
+
+Ex : 1 2 3 4 ? ? ? ?
+======================================================
+Problem#5 : Number pattern with skip/table
+
+Ex : 2 4 6 8 ? ? ?
+======================================================
+Problem#6 : Image pattern
+
+Ex : Square Triangle Circle Square Triangle Circle  ? ? ?
+======================================================
+Problem#7 : Missing numbers in simple patterns
+
+Ex : 10 20 30 ? ? ? ?
+======================================================
