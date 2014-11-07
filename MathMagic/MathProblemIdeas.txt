@@ -42,3 +42,34 @@ Ex : 1 4 9 16 ? ? ?
 
 Suitable for Class 2 & Class 3 kids.
 ======================================================
+Problem#8 : Simple equation 
+
+Ex : A = 2+3 B= A+2 B = ?
+
+Suitable for Class 2 & Class 3 kids.
+======================================================
+Problem#9 : Simple equation with weigh scale
+
+Ex : 
+  A  o					0 0 0 0	0
+---------               ----------
+   |						|
+------------------------------------
+               /\
+			   
+What is value for A?
+
+Suitable for Class 2 & Class 3 kids.
+======================================================
+Problem#10 : Addition series 
+
+Ex : 3+4+5+9+2 = ?
+
+Suitable for Class 2 kids.
+======================================================
+Problem#10 : Operation series 
+
+Ex : 3+4-5+9-2 = ?
+
+Suitable for Class 2 kids.
+======================================================
