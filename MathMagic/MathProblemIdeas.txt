@@ -73,3 +73,9 @@ Ex : 3+4-5+9-2 = ?
 
 Suitable for Class 2 kids.
 ======================================================
+Problem#11 : Find sleeping/standing line in given figures 
+
+Ex : Square has 2 sleeping and 2 standing line
+
+Suitable for Class 1 kids.
+======================================================
