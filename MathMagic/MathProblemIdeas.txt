@@ -11,42 +11,56 @@ Problem#2 : Solving simple equation for operator.
 Ex : 5 + 3 = 2 ? 4
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_SimpleEquations3 [Completed]
 ======================================================
 Problem#3 : Solving simple equations with alphabet.
 
 Ex : P + 5 = 7   What is Value for P?
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_AlgebricEquations1 [Completed]
 ======================================================
 Problem#4 : Number pattern (AP)
 
 Ex : 2 4 6 8 ? ? ? ?
 
 Suitable for Class 1 & Class 2 kids.
+
+Worksheet : Worksheet_NumberPattern1 [Completed]
 ======================================================
 Problem#5 : Number pattern (GP)
 
 Ex : 1 2 4 8 ? ? ? ?
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_NumberPattern2 [Completed]
 ======================================================
 Problem#6 : Time pattern 
 
 Ex : 1:00 1:15 1:30 1: 45 2:00 ? ? ? ? 
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_TimePattern1 [Completed]
 ======================================================
-Problem#7 : Number pattern (Square number) 
+Problem#7 : Number pattern (Square/Cube number) 
 
 Ex : 1 4 9 16 ? ? ?
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_NumberPattern3 [Completed]
 ======================================================
 Problem#8 : Simple equation 
 
 Ex : A = 2+3 B= A+2 B = ?
 
 Suitable for Class 2 & Class 3 kids.
+
+Worksheet : Worksheet_SimpleEquations4 [Completed]
 ======================================================
 Problem#9 : Simple equation with weigh scale
 
@@ -61,17 +75,14 @@ What is value for A?
 
 Suitable for Class 2 & Class 3 kids.
 ======================================================
-Problem#10 : Addition series 
-
-Ex : 3+4+5+9+2 = ?
-
-Suitable for Class 2 kids.
-======================================================
 Problem#10 : Operation series 
 
 Ex : 3+4-5+9-2 = ?
+Ex : 3+4+5+9+2 = ?
 
 Suitable for Class 2 kids.
+
+Worksheet : Worksheet_SimpleExpressions1 [Completed]
 ======================================================
 Problem#11 : Find sleeping/standing line in given figures 
 
