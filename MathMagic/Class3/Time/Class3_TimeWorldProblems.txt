@@ -1,0 +1,52 @@
+Word Problems Related to Time
+=============================
+[Easy Problems : Only Full Hour Addition/Substraction]
+1. Ram wakes up at 6'o clock in the morning. He takes 2 hours to get ready for school. At what time he gets ready to school?
+
+2. Sita reaches school at 8'o clock and her school closes at 12'o clock. How long she is in school?
+
+3. Riya's school starts at 9'o clock in the morning. Her school closes at 3'o clock in the evening. How long Riya is in school?
+
+4. Sheela gets into bus at 10'o clock and she gets down from the bus at 11'o clock. How long she was in the bus?
+
+5. Neha stars working on homework at 5'o clock in the evening. She finishes her homework at 8'o clock. How long shw was doing the homework?
+
+6. Geeta start writting test at 2'o clock and test is for 2 hours. When she finishes her test?
+
+7. Subrata leaves home at 4'o clock in the evening. She comes back home after 2 hour. What time she comes back home?
+
+8. I start test at 11'o clock in the morning and finish the test at 1'o clock in the afternoon. How long I was writing the test?
+
+9. Molly went to playground at 5'o clock in the evening. She is back from playground at 7'o clock. How long she played?
+
+10. Shyam starts reading the book at 11'o clock, He reads book for 3 more hours. When did he finished reading?
+
+[Hard Problems]
+1. Diya started reading the book at 10:20 AM. She finished the reading at 11:35 AM. How long she was reading the book?
+
+2. Geeta started the test at 11:30 AM. She finished her test at 1:00 PM. How long she was writting the test?
+
+3. Molly goes the school at 8:40 AM and her school finishes at 2:55 PM. How long she is in school?
+
+4. Neha gets into bus for school at 7:35 AM and she reaches school at 8:20 AM. How long bus takes to reach school?
+
+5. Sheela starts her homework at 5:55 PM. She finishes her homework at 7:05 PM. How long she took to complete the homework?
+
+6. Sita and Geeta runs a race. Sita takes 1 hours and 10 minutes to finish the race. Geeta takes 55 minutes to finishe the race. Who was fast and how much fast?
+
+7. Alice leaves to school at 9'o clock. He reaches to school at 9:20 AM. His school finishes at 3'o clock. It takes 25 minutes for him to come back home. What tie he reaches home?
+
+8. Ram wakes up 7:05 AM. He enter into bathroom to brush and bath at 7:20 AM.  He takes 5 minutes to brush his teeths and 15 minutes to bath. When did he come out of bathroom?
+
+9. Shyam started reading at 4:20 PM. He read math for 25 minutes and after that he read science for 20 minutes. When did he finished his study?
+
+10. Bipin started his testat 10:05 AM. He read the instructions for 10 minutes and then he started solving the problems. He took 55 minutes to solve the problems. When did he finished the test?
+
+[Harder Problems]
+1. Diya appeared in test at 1'0 clock. Her test duration is 2 hours and 15 minutes but she finished the test 15 minutes before the end time. at what time she finished the test?
+
+2. Sheena started for school at 8:15 AM. It took 25 minutes for her to reach school. She reached 10 minutes before school started. School completed after 3 hours. Sheena took 20 minutes to rach home after school. When did she reach home?
+
+3. Ram and shyam was taking part in a race. Ram can run 1 kilometer in 20 minutes while shyam can run 2 kilometer race in 15 minutes. Both ran for 3 kilometer in race. Who finished the race fast and how much less time he took from other?
+
+
